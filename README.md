@@ -3,7 +3,7 @@ Bot Altyapı Projesine Hoşgeldin!
 
 Merhaba Arkadaşlar Bu Altyapı çok emek verilerek Yapılmış 2021 Yılında Yapılmıştır. Bu Altyapı Discord.js v12 Sürümünü Artık Desteklemektedir! Kolaylıkla Kullanabilirsiniz!
 
-Resmi Discord Sunucumuz: https://discord.gg/DPxD8uEZ5X
+Resmi Discord Sunucumuz: (https://discord.gg/DPxD8uEZ5X)
 
 Basit Hatalar ve Çözümleri!
 1 • Eğer hatanız; Cannot find module 'blabla' şeklindeyse modül kurmanız gerekmektedir. Modül kurmak için konsolu açıp npm i blabla yazınız. Glitch kullanıyorsanız basit kurulum yolu; 1 • Package.json'a girin. 2 • Yukarıdan Add Package basın. 3 • İnmesi gereken paket ismini yazın ve çıkana basın. başarılı!
