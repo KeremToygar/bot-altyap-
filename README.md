@@ -1,4 +1,6 @@
 Bot Altyapı Projesine Hoşgeldin!
+
+
 Merhaba Arkadaşlar Bu Altyapı çok emek verilerek Yapılmış 2021 Yılında Yapılmıştır. Bu Altyapı Discord.js v12 Sürümünü Artık Desteklemektedir! Kolaylıkla Kullanabilirsiniz!
 
 Resmi Discord Sunucumuz
