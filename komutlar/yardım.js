@@ -9,7 +9,7 @@ exports.run = (client, message,args) => {
   .setDescription(`Sunucum (discord.gg/xrzH38pXDu)`) 
   .addField("Komutlar:", `\
     \nkomut = -emojiler, -duyuru, -kanalismideğiş, \n-kullanıcı-bilgi, -rol-bilgi, -sunucu-bilgi, -ping
-    \nModerasyon = \n-ban, -kick, -poll, \n-sil, -yaz, -Çekiliş, -Oylama
+    \nModerasyon = \n-ban, -kick, -poll, \n-sil, -yaz, -rastgele-kişi
     \nEğlence = -ascii, -tkm, -yazı-tura.`)
   message.channel.send(yardimembed)
 }
